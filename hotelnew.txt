@@ -1,0 +1,5 @@
+jubair 3 yes cash
+shikta 2 no card
+sobuj 20 yes card
+toha 23 yes card
+fahim 15 no cash
